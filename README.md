@@ -1,6 +1,6 @@
 # Fusion Table Searchable Map Template
 
-[See the working demo &raquo;](http://MohitAnand6102.github.io/FusionTable-Map-Template/)
+[See the working demo &raquo;](http://mohitanand6102.github.io/FusionTable-Map-Template/)
 
 
 ## Copyright and attribution
